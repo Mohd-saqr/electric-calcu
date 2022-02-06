@@ -1,0 +1,26 @@
+{
+  "name": "electric-calcu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohd-saqr/electric-calcu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohd-saqr/electric-calcu/issues"
+  },
+  "homepage": "https://github.com/Mohd-saqr/electric-calcu#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "env": "^0.0.2",
+    "express": "^4.17.2"
+  }
+}
